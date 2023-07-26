@@ -2,28 +2,28 @@ const { Tag } = require("../models");
 
 const tagData = [
   {
-    tag_name: "rap music",
+    tag_name: "This is amazing",
   },
   {
-    tag_name: "pop music",
+    tag_name: "One of the best",
   },
   {
-    tag_name: "synth music",
+    tag_name: "Unmatched",
   },
   {
-    tag_name: "hardcore music",
+    tag_name: "Amazing bo bazing",
   },
   {
-    tag_name: "alternative/indie music",
+    tag_name: "Certified Bangers",
   },
   {
-    tag_name: "heavy metal music",
+    tag_name: "Heavy hitting music",
   },
   {
-    tag_name: "rock music",
+    tag_name: "I wanna listen again",
   },
   {
-    tag_name: "synth-pop music",
+    tag_name: "I wanna listen again and again and again",
   },
 ];
 
