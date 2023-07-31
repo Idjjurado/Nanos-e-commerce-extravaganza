@@ -1,6 +1,6 @@
 ![ECOMMERCE BACKEND!](./assets/ecommercelogo.png)
 
-link to walthrough video: https://somup.com/c0iu16zdo2
+link to walthrough video: https://somup.com/c0iwrHzMnt
 
 ## Description
 
